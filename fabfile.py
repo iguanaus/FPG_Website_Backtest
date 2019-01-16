@@ -4,6 +4,7 @@ from fabric.decorators import task
 postgres_dir = "/usr/local/var/postgres"
 postgres_log = "/usr/local/var/postgres/server.log"
 
+#asdfasdfasdasdf
 
 @task
 def run_db_on_mac():
