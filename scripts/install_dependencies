@@ -1,0 +1,5 @@
+#!/bin/bash
+yum install -y httpd
+echo $PWD > ~/test.txt
+echo "hello" > ~/newfile.txt
+
